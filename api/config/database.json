@@ -1,0 +1,5 @@
+{
+    "dbTest" : "mongodb+srv://teste:12345678Aa@cluster0.g3shs.mongodb.net/teste?retryWrites=true&w=majority",
+    "dbProduction": "mongodb://localhost:27017/ecommerce-api"
+
+}
